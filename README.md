@@ -12,6 +12,9 @@ A simple Android application that allows users to recieve live weather data.
 * Mockito - version 4.6.1
 * JUnit - version 4.13.2
 * Google Places SDK - version 2.6.0
+
+<img src = "https://github.com/SuneelKM/AndroidWeatherApp/blob/master/Screenshot/image.png" width=1200 height=450>
+
 ## Features
 * Has bottom navigation with three pages:
   - Today page: -Contains current weather details for users current location and searched location
