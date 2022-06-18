@@ -6,6 +6,7 @@ A simple Android application that allows users to recieve live weather data.
 ## Technologies Used
 * Kotlin
 * Android Studio - Chipmunk
+* MVVM Design
 * RxKotlin
 * Room DB 
 * Retrofit2 
@@ -33,3 +34,14 @@ A simple Android application that allows users to recieve live weather data.
 * Search bar uses Google's Places Autocomplete, so user can start typing a location and autocomplete will provide a list of place predictions
 * Can convert the temperature units from Celsius to Fahrenheit
 * Dynamic weather icons that correspond to the weather details
+
+
+## To run the app
+* Get the required API keys mentioned aboved.
+* Clone the Repo
+* Open the Repo in Android Studio
+* In the local.properties file, under sdk.dir line enter your API keys as show below:
+  - googleApi = "Your Google Cloud API key"
+  - weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
+  - openCageDataKey = "Your OpenCageDataKey"
+* Optional: To link the app to google crashlytics, you can signup for google crahlytics and paste your google-services.json in the app folder.
