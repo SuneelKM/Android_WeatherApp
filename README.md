@@ -45,6 +45,6 @@ A simple Android application that allows users to recieve live weather data.
   - googleApi = "Your Google Cloud API key"
   - weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
   - openCageDataKey = "Your OpenCageDataKey"
-  - Signup for Google firebase crahlytics and paste your google-services.json file in the app folder.
+* Signup for Google firebase crahlytics and paste your google-services.json file in the app folder.
 * Rebuild your Gradle
 * Enjoy!!
