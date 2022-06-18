@@ -20,6 +20,7 @@ A simple Android application that allows users to recieve live weather data.
 * OpenWeather One Call API 3.0 to get live weather data
 * OpenCage Geocoding API for reverse geocoding
 * Google cloud API key for Google Place Autocomplete and Google Geocoding
+* Google Firebase crahlytics to monitor and analyze the crashes
 
 ## Screenshots
 
@@ -44,6 +45,6 @@ A simple Android application that allows users to recieve live weather data.
   - googleApi = "Your Google Cloud API key"
   - weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
   - openCageDataKey = "Your OpenCageDataKey"
+  - Signup for Google firebase crahlytics and paste your google-services.json file in the app folder.
 * Rebuild your Gradle
 * Enjoy!!
-* Optional: To link the app to google crashlytics, you can signup for google crahlytics and paste your google-services.json in the app folder.
