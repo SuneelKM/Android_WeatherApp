@@ -37,7 +37,7 @@ A simple Android application that allows users to recieve live weather data.
 * Dynamic weather icons that correspond to the weather details
 
 
-## To run the app
+## To run the App
 * Get the required API keys mentioned aboved.
 * Clone the Repo.
 * Open the Repo in Android Studio. Gradle sync will fail.
