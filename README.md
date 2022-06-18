@@ -20,6 +20,8 @@ A simple Android application that allows users to recieve live weather data.
 * OpenCage Geocoding API for reverse geocoding
 * Google cloud API key for Google Place Autocomplete and Google Geocoding
 
+## Screenshots
+
 <img src = "https://github.com/SuneelKM/AndroidWeatherApp/blob/master/Screenshot/image.png" width=1200 height=450>
 
 ## Features
