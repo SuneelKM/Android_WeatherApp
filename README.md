@@ -41,7 +41,7 @@ A simple Android application that allows users to recieve live weather data.
 * Get the required API keys mentioned aboved.
 * Clone the Repo.
 * Open the Repo in Android Studio. Gradle sync will fail.
-* In the local.properties file, under sdk.dir line enter your API keys as show below:
+* In the local.properties file, under sdk.dir line, enter your API keys as show below:
 ```bash
 googleApi = "Your Google Cloud API key"
 weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
