@@ -39,9 +39,11 @@ A simple Android application that allows users to recieve live weather data.
 ## To run the app
 * Get the required API keys mentioned aboved.
 * Clone the Repo
-* Open the Repo in Android Studio
+* Open the Repo in Android Studio. Gradle sync will fail.
 * In the local.properties file, under sdk.dir line enter your API keys as show below:
   - googleApi = "Your Google Cloud API key"
   - weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
   - openCageDataKey = "Your OpenCageDataKey"
+* Rebuild your Gradle
+* Enjoy!!
 * Optional: To link the app to google crashlytics, you can signup for google crahlytics and paste your google-services.json in the app folder.
