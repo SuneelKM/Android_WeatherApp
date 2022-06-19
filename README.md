@@ -40,7 +40,7 @@ A simple Android application that allows users to recieve live weather data.
 ## To run the App
 * Get the required API keys mentioned aboved.
 * Clone the Repo.
-* Open the Repo in Android Studio. Gradle sync will fail.
+* When openning the Repo first time in Android Studio, gradle sync will fail. You will need to put the necessary API keys in local.properties file.
 * In the local.properties file, under sdk.dir line, enter your API keys as show below:
 ```bash
 googleApi = "Your Google Cloud API key"
