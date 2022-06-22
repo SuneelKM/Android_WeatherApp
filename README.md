@@ -38,15 +38,15 @@ A simple Android application that allows users to recieve live weather data.
 
 
 ## To run the App
-* Get the required API keys mentioned aboved.
-* Clone the Repo.
-* When openning the Repo first time in Android Studio, gradle sync will fail. You will need to put the necessary API keys in local.properties file.
+* Get the required API keys mentioned aboved
+* Clone the Repo
+* When openning the Repo first time in Android Studio, gradle sync will fail. You will need to put the necessary API keys in local.properties file
 * In the local.properties file, under sdk.dir line, enter your API keys as show below:
 ```bash
 googleApi = "Your Google Cloud API key"
 weatherApiKey = "Your OpenWeather One Call API 3.0 Key"
 openCageDataKey = "Your OpenCageDataKey"
 ```
-* Signup for Google firebase crahlytics and paste your google-services.json file in the "app" folder.
-* Rebuild your Gradle.
+* Signup for Firebase crahlytics on https://console.firebase.google.com/ and paste your google-services.json file in the "app" folder
+* Rebuild your Gradle
 * Enjoy!!
