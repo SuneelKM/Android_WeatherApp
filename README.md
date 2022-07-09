@@ -24,7 +24,7 @@ A simple Android application that allows users to recieve live weather data.
 
 ## Screenshots
 
-<img src = "https://github.com/SuneelKM/AndroidWeatherApp/blob/master/Screenshot/image.png" width=1200 height=450>
+<img src = "https://github.com/SuneelKM/Android_WeatherApp/blob/main/screenshot/WeatherImage.png" width=1200 height=450>
 
 ## Features
 * Detect your current location based on your IP address
