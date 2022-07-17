@@ -1,7 +1,7 @@
 # Project 2 - Weather App
 
 ## Project Description
-A simple Android application that allows users to recieve live weather data.
+A Android application that allows users to recieve live weather data.
 
 ## Technologies Used
 * Kotlin
