@@ -17,10 +17,10 @@ A Android application that allows users to recieve live weather data.
 * Timber Tree logger
 
 ## APIs Used
-* OpenWeather One Call API 3.0 to get live weather data
-* OpenCage Geocoding API for reverse geocoding
-* Google cloud API key for Google Place Autocomplete and Google Geocoding
-* Google Firebase crahlytics to monitor and analyze the crashes
+* OpenWeather One Call API 3.0 (https://openweathermap.org/api/one-call-3) to get live weather data
+* OpenCage Geocoding API (https://opencagedata.com) for reverse geocoding
+* Google cloud API key (https://console.cloud.google.com) for Google Place Autocomplete and Google Geocoding
+* Google Firebase crahlytics (https://console.firebase.google.com) to monitor and analyze the crashes
 
 ## Screenshots
 
