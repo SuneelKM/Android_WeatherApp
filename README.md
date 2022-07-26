@@ -14,7 +14,7 @@ A Android application that allows users to recieve live weather data.
 * JUnit 
 * Google Places SDK 
 * Firebase Crashlytics
-* Timber Tree logger 
+* Timber Tree logger
 
 ## APIs Used
 * OpenWeather One Call API 3.0 (https://openweathermap.org/api/one-call-3) to get live weather data
